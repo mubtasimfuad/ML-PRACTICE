@@ -1,2 +1,2 @@
 # ML-PRACTICE
-Repo. for NLP &amp; stuffs
+Repo. for ML &amp; stuffs
